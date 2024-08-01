@@ -23,12 +23,13 @@ The trader would like to be able to monitor two historically correlated stocks a
 
 Most data visualisation for our traders is built on JPMorgan Chase's Perspective data visualisation software, which is now open source. If you want to explore that, a link is provided in the resources section.
 
-Before implementing this request using perspective, first, you’ll need to interface with the relevant financial data feed and make the necessary adjustments to facilitate the monitoring of potential trade opportunities.
+Before implementing this request using perspective, first, you’ll need to interface with the relevant financial data feed and make the necessary adjustments 
 
 
 ## The tasks (already completed)
-Fix the broken client datafeed script in the repository by making the required adjustments to it.
-(optional) Add unit tests in the test script in the repository.
+### 
+    Fix the broken client datafeed script in the repository by making the required adjustments to facilitate the monitoring of potential trade opportunities.
+    Add unit tests in the test script in the repository (optional).
 
 
 ## To run 
