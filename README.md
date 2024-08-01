@@ -35,7 +35,7 @@ Add unit tests in the test script in the repository (optional).
 
 ## To run 
 ###
-    First, type in the terminal:
+    First, start the server (from the root of the project repo):
     $python server3.py
 
     then, open a new terminal and type:
