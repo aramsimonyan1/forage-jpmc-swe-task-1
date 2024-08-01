@@ -5,16 +5,15 @@ Fork and clone the starter repo here: https://github.com/theforage/forage-jpmc-s
 IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on GitHub. A model answer has been provided in a separate branch from main.
 
 Create a new virtual environment in the project root. You can create a virtual environment using the venv module in Python. 
-$python -m venv venv  
+    $python -m venv venv  
 
 This will create a new directory named venv in your project root, containing the virtual environment.
 
 Activate the Virtual Environment (windows  /  linux).
-$.\venv\Scripts\activate     /     $source venv/bin/activate
+    $.\venv\Scripts\activate     /     $source venv/bin/activate
 
 Install all project dependencies. These are listed in the requirements.txt file.
-
-$pip install -r requirements.txt
+    $pip install -r requirements.txt
 
 
 ## Task 1 Interface with a stock price data feed (already completed so it works).
