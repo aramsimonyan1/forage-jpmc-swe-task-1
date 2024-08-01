@@ -38,5 +38,5 @@ Add unit tests in the test script in the repository (optional).
     First, type in the terminal:
     $python server3.py
 
-    then, open a new terminal, and type:
+    then, open a new terminal and type:
     $python client3.py
