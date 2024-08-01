@@ -3,9 +3,10 @@
 ## Starter repo and setting up dev environment
 ###
     Fork and clone the starter repo here: https://github.com/theforage/forage-jpmc-swe-task-1
-    IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on GitHub. A model answer has been provided in a separate branch from main.
+    IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on GitHub. 
+    A model answer has been provided in a separate branch from main.
 
-    Create a new virtual environment in the project root. You can create a virtual environment using the venv module in Python:
+    Create a new virtual environment in the project root. e.g. by using the venv module in Python:
     $python -m venv venv  
     This will create a new directory named venv in your project root, containing the virtual environment.
 
@@ -27,9 +28,9 @@ Before implementing this request using perspective, first, you’ll need to inte
 
 
 ## The tasks (already completed)
-### 
-    Fix the broken client datafeed script in the repository by making the required adjustments to facilitate the monitoring of potential trade opportunities.
-    Add unit tests in the test script in the repository (optional).
+Fix the broken client datafeed script in the repository by making the required adjustments to facilitate the monitoring of potential trade opportunities.
+
+Add unit tests in the test script in the repository (optional).
 
 
 ## To run 
