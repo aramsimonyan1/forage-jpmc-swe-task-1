@@ -6,7 +6,6 @@ IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on
 
 Create a new virtual environment in the project root. You can create a virtual environment using the venv module in Python. 
     $python -m venv venv  
-
 This will create a new directory named venv in your project root, containing the virtual environment.
 
 Activate the Virtual Environment (windows  /  linux).
