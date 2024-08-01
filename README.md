@@ -1,17 +1,18 @@
 # J.P. Morgan Chase software engineering program 
 
 ## Starter repo and seting up dev environment
-Fork and clone the starter repo here: https://github.com/theforage/forage-jpmc-swe-task-1 .
-IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on GitHub. A model answer has been provided in a separate branch from main.
+###
+    Fork and clone the starter repo here: https://github.com/theforage/forage-jpmc-swe-task-1 .
+    IMPORTANT! Uncheck the “Copy the main branch only” box in the fork dialog on GitHub. A model answer has been provided in a separate branch from main.
 
-Create a new virtual environment in the project root. You can create a virtual environment using the venv module in Python. 
+    Create a new virtual environment in the project root. You can create a virtual environment using the venv module in Python. 
     $python -m venv venv  
-This will create a new directory named venv in your project root, containing the virtual environment.
+    This will create a new directory named venv in your project root, containing the virtual environment.
 
-Activate the Virtual Environment (windows  /  linux).
+    Activate the Virtual Environment (windows  /  linux).
     $.\venv\Scripts\activate     /     $source venv/bin/activate
 
-Install all project dependencies. These are listed in the requirements.txt file.
+    Install all project dependencies. These are listed in the requirements.txt file.
     $pip install -r requirements.txt
 
 
