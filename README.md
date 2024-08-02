@@ -1,4 +1,4 @@
-# J.P. Morgan Chase software engineering program 
+# J.P. Morgan Chase software engineering program. Task 1
 
 ## Starter repo and setting up dev environment
 ###
@@ -27,7 +27,7 @@ Most data visualisation for our traders is built on JPMorgan Chase's Perspective
 Before implementing this request using perspective, first, you’ll need to interface with the relevant financial data feed and make the necessary adjustments 
 
 
-## The tasks (already completed)
+## The objective (already completed)
 Fix the broken client datafeed script in the repository by making the required adjustments to facilitate the monitoring of potential trade opportunities.
 
 Add unit tests in the test script in the repository (optional).
@@ -35,7 +35,7 @@ Add unit tests in the test script in the repository (optional).
 
 ## To run 
 ###
-    First, start the server (from the root of the project repo):
+    First, start the python server (from the root of the project repo):
     $python server3.py
 
     then, open a new terminal and type:
